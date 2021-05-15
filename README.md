@@ -3,7 +3,7 @@ A Dokuwiki plugin to sync data from airtable
 
 ## Prerequisites:
 * Download and install [confmanager](https://www.dokuwiki.org/plugin:confmanager) This is used to create and format the config file
-* Create an airtbale account and get an API key: https://airtable.com/api - also see their documentation on how to create a query  
+* Create an airtable account and get an API key: https://airtable.com/api - also see their documentation on how to create a query  
 
 ## Installation
 Place the airtable folder inside your Dokuwiki plugin directory:  
